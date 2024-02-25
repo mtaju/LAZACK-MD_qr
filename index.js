@@ -19,7 +19,7 @@ const MESSAGE = process.env.MESSAGE ||  `
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║ *Ytube:* _youtube.com/SuhailTechInfo_
+║ *wtsapp:* _https://chat.whatsapp.com/KYmevXcP6Ki89fpqbQHoEf_
 ║ *Owner:* _https://wa.me/255734980103_
 ║ *Note :*_Don't provide your SESSION_ID to_
 ║ _anyone otherwise that can access chats_
